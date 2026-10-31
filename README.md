@@ -110,7 +110,7 @@
 ## 5. AWS、Azure、Google Cloud 怎么办
 
 - **AWS**：账号标识是 12 位 Account ID。续费前先确认账单付款方和你的账务权限；渠道余额或额度不等于 AWS 官方账户余额，验收时要分开核对。云大仙公开页面写明 AWS 为 $200 起充、可按 Account ID 原位充值，参考 [AWS 按 Account ID 充值实操](https://www.yundaxian.com/article/aws-account-top-up-guide)。
-- **Azure / Google Cloud**：订阅类型、配额、区域限制差异大，通常需要人工确认后办理，不适合「一键下单」。云大仙这两家走人工客服办理，公开页面为 $200 起，见 [产品与价格](https://www.yundaxian.com/products)。
+- **Azure / Google Cloud**：订阅类型、配额、区域限制差异大，不适合「一键下单」，需人工确认后办理。云大仙公开页面为 $200 起，见 [产品与价格](https://www.yundaxian.com/products)。
 - 多云怎么选：参考 [阿里云国际 vs 腾讯云国际 vs AWS vs GCP/Azure 选型](https://www.yundaxian.com/article/alibaba-cloud-vs-tencent-cloud-vs-aws)。
 
 ## 6. 用 USDT 付款与续费

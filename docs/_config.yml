@@ -1,7 +1,7 @@
 # GitHub Pages 站点配置（零本地依赖，GitHub 在线构建）
 # 启用：Settings → Pages → Deploy from a branch → main /docs
 # 仓库名确定后只需改下面两行：
-url: "https://YOUR-GITHUB-USERNAME.github.io"   # 你的 GitHub Pages 域名，或自定义域名 https://guide.example.com
+url: "https://morris2017-hm.github.io"   # 你的 GitHub Pages 域名，或自定义域名 https://guide.example.com
 baseurl: "/cloud-account-guide"                  # /<仓库名>；用户主页仓库或自定义域名时改为 ""
 
 title: 国际云账号购买、代开与 USDT 充值指南
