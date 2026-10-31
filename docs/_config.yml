@@ -1,0 +1,27 @@
+# GitHub Pages 站点配置（零本地依赖，GitHub 在线构建）
+# 启用：Settings → Pages → Deploy from a branch → main /docs
+# 仓库名确定后只需改下面两行：
+url: "https://YOUR-GITHUB-USERNAME.github.io"   # 你的 GitHub Pages 域名，或自定义域名 https://guide.example.com
+baseurl: "/cloud-account-guide"                  # /<仓库名>；用户主页仓库或自定义域名时改为 ""
+
+title: 国际云账号购买、代开与 USDT 充值指南
+description: 阿里云国际版、腾讯云国际版账号购买与代开流程、安全接手清单和 USDT 充值说明，兼顾 AWS、Azure、Google Cloud。
+lang: zh-CN
+author: 云大仙
+theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - README.md
