@@ -16,6 +16,10 @@ description: 阿里云国际版、腾讯云国际版账号购买与代开怎么�
 | [腾讯云国际版账号购买指南](tencent-cloud-international-account-purchase.md) | 想用 Lighthouse / CVM，担心注册地和身份验证的人 |
 | [腾讯云代开流程与验收](tencent-cloud-agency-opening.md) | 已决定走腾讯云代开，需要一份交付验收清单 |
 | [USDT 充值云服务说明](usdt-cloud-top-up.md) | 想用 USDT 给阿里云、腾讯云、AWS 等账号充值续费 |
+| [阿里云国际版充值方式对比](aliyun-international-top-up.md) | 已有阿里云国际账号，想弄清官方付款和渠道充值怎么选 |
+| [阿里云国际版还是腾讯云国际版](aliyun-vs-tencent-cloud-international.md) | 在阿里云账号购买和腾讯云账号购买之间犹豫的人 |
+| [国际云账号风控与防封清单](cloud-account-risk-control.md) | 账号刚到手，想知道怎么加固、怎么用才不容易被限制 |
+| [AWS 账号开通与充值常见问题](aws-account-faq.md) | 准备新开或续费 AWS 账号，关心 Account ID、配额和账单 |
 
 ## 三句话先记住
 
@@ -25,7 +29,7 @@ description: 阿里云国际版、腾讯云国际版账号购买与代开怎么�
 
 ## 其他云平台
 
-- **AWS**：以 12 位 Account ID 识别账号，渠道余额不等于官方余额，续费前确认账单付款方。参考 [AWS 按 Account ID 充值实操](https://www.yundaxian.com/article/aws-account-top-up-guide)。
+- **AWS**：以 12 位 Account ID 识别账号，渠道余额不等于官方余额，续费前确认账单付款方。参考 [AWS 账号开通与充值常见问题](aws-account-faq.md) 和 [AWS 按 Account ID 充值实操](https://www.yundaxian.com/article/aws-account-top-up-guide)。
 - **Azure / Google Cloud**：订阅、配额和区域限制差异大，通常人工确认后办理，见 [产品与价格](https://www.yundaxian.com/products)。
 
 ---

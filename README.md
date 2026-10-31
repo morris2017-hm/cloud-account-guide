@@ -171,6 +171,15 @@ USDT 付款最常见的事故不是被骗，而是**选错网络**和**少付手
 
 ## 9. 延伸阅读
 
+本仓库的专题指南（GitHub Pages 在线版同步）：
+
+- [阿里云国际版充值方式对比](docs/aliyun-international-top-up.md)：官方付款、渠道充值与 USDT 续费怎么选
+- [阿里云国际版还是腾讯云国际版](docs/aliyun-vs-tencent-cloud-international.md)：账号购买与代开前怎么选平台
+- [国际云账号风控与防封清单](docs/cloud-account-risk-control.md)：接手后的加固步骤与日常禁忌
+- [AWS 账号开通与充值常见问题](docs/aws-account-faq.md)：Account ID、根用户安全、配额与续费
+
+云大仙相关页面：
+
 - 云大仙文章列表：<https://www.yundaxian.com/blog>
 - 阿里云国际开户与代开：<https://www.yundaxian.com/open/aliyun>
 - 腾讯云国际开户与代开：<https://www.yundaxian.com/open/tencent>

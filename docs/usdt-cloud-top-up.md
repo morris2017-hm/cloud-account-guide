@@ -4,7 +4,7 @@ description: 用 USDT 给阿里云国际版、腾讯云国际版、AWS 等账号
 permalink: /usdt-cloud-top-up/
 ---
 
-[指南首页](index.md) · [阿里云账号购买](aliyun-international-account-purchase.md) · [阿里云代开](aliyun-agency-opening.md) · [腾讯云账号购买](tencent-cloud-international-account-purchase.md) · [腾讯云代开](tencent-cloud-agency-opening.md) · [USDT 充值](usdt-cloud-top-up.md)
+[指南首页](index.md) · [阿里云账号购买](aliyun-international-account-purchase.md) · [阿里云代开](aliyun-agency-opening.md) · [腾讯云账号购买](tencent-cloud-international-account-purchase.md) · [腾讯云代开](tencent-cloud-agency-opening.md) · [USDT 充值](usdt-cloud-top-up.md) · [阿里云充值方式](aliyun-international-top-up.md) · [阿里云还是腾讯云](aliyun-vs-tencent-cloud-international.md) · [防封清单](cloud-account-risk-control.md) · [AWS 常见问题](aws-account-faq.md)
 
 # USDT 充值云服务说明
 
@@ -51,6 +51,8 @@ permalink: /usdt-cloud-top-up/
 - **「充了钱服务器就续上了」**：余额充足不等于包年包月资源已续费，到期前要在控制台单独确认。
 - **「等余额见底再充」**：按量计费的账单有延迟，腾讯云大部分服务按小时计费，余额为负可能导致服务暂停。
 - **「地址前几位一样就没问题」**：转账前完整核对地址，警惕剪贴板被篡改。
-- **「客服私聊发来的地址也能用」**：只认订单页显示的收款地址。
+- **「私聊发来的地址也能用」**：只认订单页显示的收款地址。
+
+下一篇：[阿里云国际版充值方式对比](aliyun-international-top-up.md)
 
 返回 [指南首页](index.md)
