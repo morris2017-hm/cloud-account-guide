@@ -20,6 +20,7 @@ description: 阿里云国际版、腾讯云国际版账号购买与代开怎么�
 | [阿里云国际版还是腾讯云国际版](aliyun-vs-tencent-cloud-international.md) | 在阿里云账号购买和腾讯云账号购买之间犹豫的人 |
 | [国际云账号风控与防封清单](cloud-account-risk-control.md) | 账号刚到手，想知道怎么加固、怎么用才不容易被限制 |
 | [AWS 账号开通与充值常见问题](aws-account-faq.md) | 准备新开或续费 AWS 账号，关心 Account ID、配额和账单 |
+| [阿里云国际版 CDT 每月 220GB 免费流量](aliyun-international-cdt-free-traffic.md) | 用按流量计费的 ECS/EIP，想把公网流量费压到最低的人 |
 
 ## 三句话先记住
 
