@@ -178,6 +178,7 @@ USDT 付款最常见的事故不是被骗，而是**选错网络**和**少付手
 - [国际云账号风控与防封清单](docs/cloud-account-risk-control.md)：接手后的加固步骤与日常禁忌
 - [AWS 账号开通与充值常见问题](docs/aws-account-faq.md)：Account ID、根用户安全、配额与续费
 - [阿里云国际版 CDT 每月 220GB 免费流量](docs/aliyun-international-cdt-free-traffic.md)：免费额度规则、阶梯价格、开通与告警设置
+- [阿里云、腾讯云国际版地域怎么选](docs/cloud-region-selection-guide.md)：按用户分布、备案、线路、成本和合规选地域，附跨地域迁移方法
 
 云大仙相关页面：
 
