@@ -22,6 +22,7 @@ description: 阿里云国际版、腾讯云国际版账号购买与代开怎么�
 | [AWS 账号开通与充值常见问题](aws-account-faq.md) | 准备新开或续费 AWS 账号，关心 Account ID、配额和账单 |
 | [阿里云国际版 CDT 每月 220GB 免费流量](aliyun-international-cdt-free-traffic.md) | 用按流量计费的 ECS/EIP，想把公网流量费压到最低的人 |
 | [阿里云、腾讯云国际版地域怎么选](cloud-region-selection-guide.md) | 第一次开机器，在香港、新加坡、日本、美国之间拿不定主意的人 |
+| [阿里云 RAM、腾讯云 CAM 子用户怎么设](ram-cam-subuser-permission-guide.md) | 账号到手后要分给团队成员和程序使用，想做好权限隔离的人 |
 
 ## 三句话先记住
 
