@@ -180,6 +180,7 @@ USDT 付款最常见的事故不是被骗，而是**选错网络**和**少付手
 - [阿里云国际版 CDT 每月 220GB 免费流量](docs/aliyun-international-cdt-free-traffic.md)：免费额度规则、阶梯价格、开通与告警设置
 - [阿里云、腾讯云国际版地域怎么选](docs/cloud-region-selection-guide.md)：按用户分布、备案、线路、成本和合规选地域，附跨地域迁移方法
 - [阿里云 RAM、腾讯云 CAM 子用户怎么设](docs/ram-cam-subuser-permission-guide.md)：主账号保护、最小权限、MFA、AccessKey 管理与离职交接
+- [阿里云、腾讯云国际版欠费停机怎么办](docs/cloud-overdue-payment-suspension-guide.md)：宽限期、保留期、释放规则、充值恢复步骤与余额预警
 
 云大仙相关页面：
 
