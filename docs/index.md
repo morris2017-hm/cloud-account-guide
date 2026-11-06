@@ -25,6 +25,7 @@ description: 阿里云国际版、腾讯云国际版账号购买与代开怎么�
 | [阿里云 RAM、腾讯云 CAM 子用户怎么设](ram-cam-subuser-permission-guide.md) | 账号到手后要分给团队成员和程序使用，想做好权限隔离的人 |
 | [阿里云、腾讯云国际版欠费停机怎么办](cloud-overdue-payment-suspension-guide.md) | 用按量付费资源，想弄清欠费后多久停机、多久释放、怎么恢复的人 |
 | [阿里云、腾讯云国际版账单与用量怎么看](cloud-international-billing-usage-guide.md) | 账号到手后要读月账单、查用量、排查费用突增的人 |
+| [阿里云、腾讯云国际版快照与备份怎么做](cloud-snapshot-backup-guide.md) | 机器已上线，想设自动快照、保留期并弄清快照计费的人 |
 
 ## 三句话先记住
 
