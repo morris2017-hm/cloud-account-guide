@@ -183,6 +183,7 @@ USDT 付款最常见的事故不是被骗，而是**选错网络**和**少付手
 - [阿里云、腾讯云国际版欠费停机怎么办](docs/cloud-overdue-payment-suspension-guide.md)：宽限期、保留期、释放规则、充值恢复步骤与余额预警
 - [阿里云、腾讯云国际版账单与用量怎么看](docs/cloud-international-billing-usage-guide.md)：月账单与明细出账时间、控制台入口、实例级用量与费用突增排查
 - [阿里云、腾讯云国际版快照与备份怎么做](docs/cloud-snapshot-backup-guide.md)：增量原理、自动快照策略、保留期、跨地域复制与计费要点
+- [阿里云、腾讯云国际版安全组怎么配](docs/cloud-security-group-guide.md)：默认拒绝入站、按最小权限开放 SSH/RDP/HTTP/HTTPS、多安全组与常见误配
 
 云大仙相关页面：
 
