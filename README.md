@@ -185,6 +185,7 @@ USDT 付款最常见的事故不是被骗，而是**选错网络**和**少付手
 - [阿里云、腾讯云国际版快照与备份怎么做](docs/cloud-snapshot-backup-guide.md)：增量原理、自动快照策略、保留期、跨地域复制与计费要点
 - [阿里云、腾讯云国际版安全组怎么配](docs/cloud-security-group-guide.md)：默认拒绝入站、按最小权限开放 SSH/RDP/HTTP/HTTPS、多安全组与常见误配
 - [阿里云国际版账号身份验证怎么做](docs/aliyun-international-account-verification.md)：何时必须验证、护照与企业证件、审核时间，以及验证后不能自行解绑
+- [轻量应用服务器还是云服务器](docs/lightweight-server-vs-ecs-cvm-guide.md)：阿里云轻量与 ECS、腾讯云 Lighthouse 与 CVM 的套餐差异、流量超额、磁盘快照限制和迁到 ECS 的边界
 
 云大仙相关页面：
 
