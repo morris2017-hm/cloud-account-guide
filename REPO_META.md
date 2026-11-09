@@ -17,3 +17,7 @@ alibaba-cloud, aliyun, tencent-cloud, cloud-account, alibaba-cloud-international
 Settings → Pages → Deploy from a branch → `main` / `/docs`，然后按 README「发布 GitHub Pages」修改 `docs/_config.yml` 中的 `url` 与 `baseurl`。
 
 注：项目站点（`<用户名>.github.io/<仓库名>/`）下的 robots.txt 不在域名根目录，搜索引擎不会读取它；站点地图 `sitemap.xml` 仍然可以被抓取。若绑定自定义子域名（例如 guide.example.com），robots.txt 与 sitemap 都会在根目录生效，届时把 `baseurl` 设为 ""。
+
+## 发文记录
+
+- 2026-11-09：新增《阿里云国际版账号身份验证怎么做：个人、企业与内地资源》`docs/aliyun-international-account-verification.md`。既有文章只在购买中国内地地域时一笔带过验证要求，本文专写国际站个人/企业验证的适用场景、证件、审核与不可撤销规则。
