@@ -29,6 +29,7 @@ description: 阿里云国际版、腾讯云国际版账号购买与代开怎么�
 | [阿里云、腾讯云国际版安全组怎么配](cloud-security-group-guide.md) | 第一台 ECS/CVM 要加固，想按最小权限开 22/3389/80/443 的人 |
 | [阿里云国际版账号身份验证怎么做](aliyun-international-account-verification.md) | 要用中国内地地域、签合同或申请信用额度，想先弄清个人/企业验证规则的人 |
 | [轻量应用服务器还是云服务器](lightweight-server-vs-ecs-cvm-guide.md) | 第一台机器要在阿里云轻量/ECS、腾讯云 Lighthouse/CVM 之间做选择的人 |
+| [腾讯云国际版身份验证怎么做](tencent-cloud-international-identity-verification.md) | 要用中国内地地域、在线开票或申请合作伙伴，想先弄清证件、名额和 30 天变更规则的人 |
 
 ## 三句话先记住
 
