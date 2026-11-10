@@ -190,6 +190,7 @@ USDT 付款最常见的事故不是被骗，而是**选错网络**和**少付手
 - [包年包月、按量付费还是抢占式](docs/cloud-billing-mode-stop-charging-guide.md)：ECS/CVM 三种计费方式怎么选，节省停机和关机不收费会停掉哪些费用，云盘与公网 IP 为什么还在出账
 - [系统盘和数据盘怎么选](docs/cloud-disk-system-data-guide.md)：云盘类型的实际 IOPS 怎么按容量折算，扩容不能缩小，以及释放实例后云盘是否继续计费
 - [公网 IP 和弹性公网 IP 怎么选](docs/cloud-public-ip-eip-bandwidth-guide.md)：普通公网 IP 与 EIP 的生命周期、按流量和按带宽的 5 Mbps 阶梯，以及未绑定 EIP 的地址占用费
+- [重装系统会清掉什么](docs/cloud-reinstall-os-guide.md)：更换系统盘和操作系统迁移的差别，系统盘清空后快照不能回滚到新盘，香港及海外地域不能在 Linux 和 Windows 之间互换
 
 云大仙相关页面：
 
