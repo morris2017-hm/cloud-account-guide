@@ -191,6 +191,7 @@ USDT 付款最常见的事故不是被骗，而是**选错网络**和**少付手
 - [系统盘和数据盘怎么选](docs/cloud-disk-system-data-guide.md)：云盘类型的实际 IOPS 怎么按容量折算，扩容不能缩小，以及释放实例后云盘是否继续计费
 - [公网 IP 和弹性公网 IP 怎么选](docs/cloud-public-ip-eip-bandwidth-guide.md)：普通公网 IP 与 EIP 的生命周期、按流量和按带宽的 5 Mbps 阶梯，以及未绑定 EIP 的地址占用费
 - [重装系统会清掉什么](docs/cloud-reinstall-os-guide.md)：更换系统盘和操作系统迁移的差别，系统盘清空后快照不能回滚到新盘，香港及海外地域不能在 Linux 和 Windows 之间互换
+- [升降配会停机吗](docs/cloud-instance-type-change-guide.md)：同可用区变更实例规格要重启，系统和云盘数据留下；阿里云跨可用区会更换私网 IP，固定公网 IP 只是尽量保留，降配退款以订单页为准
 
 云大仙相关页面：
 
