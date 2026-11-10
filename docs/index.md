@@ -32,6 +32,7 @@ description: 阿里云国际版、腾讯云国际版账号购买与代开怎么�
 | [腾讯云国际版身份验证怎么做](tencent-cloud-international-identity-verification.md) | 要用中国内地地域、在线开票或申请合作伙伴，想先弄清证件、名额和 30 天变更规则的人 |
 | [包年包月、按量付费还是抢占式](cloud-billing-mode-stop-charging-guide.md) | 第一台 ECS/CVM 要选计费方式，或关机后余额仍在下降的人 |
 | [系统盘和数据盘怎么选](cloud-disk-system-data-guide.md) | 创建 ECS/CVM 时要选云盘类型和容量，或删掉实例后云盘仍在扣费的人 |
+| [公网 IP 和弹性公网 IP 怎么选](cloud-public-ip-eip-bandwidth-guide.md) | 创建 ECS/CVM 时要选公网带宽，或关机、释放后地址变了、空闲 EIP 仍在扣费的人 |
 
 ## 三句话先记住
 
