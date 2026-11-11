@@ -36,6 +36,7 @@ description: 阿里云国际版、腾讯云国际版账号购买与代开怎么�
 | [重装系统会清掉什么](cloud-reinstall-os-guide.md) | 系统坏了或想换操作系统，想知道系统盘、数据盘、公网 IP，以及香港能不能 Linux 换 Windows 的人 |
 | [升降配会停机吗](cloud-instance-type-change-guide.md) | CPU 或内存不够、想升配或降配，担心重启、IP 和退款金额的人 |
 | [私钥丢了还能登录吗](cloud-ssh-keypair-password-vnc-guide.md) | 创建 ECS/CVM 时选了密钥对，私钥找不到，或密码忘了、SSH 连不上的人 |
+| [自动续费哪天扣钱](cloud-subscription-auto-renewal-guide.md) | 包年包月快到期，想知道自动续费哪天扣余额、失败会重试几次、手动续费会不会再扣一笔的人 |
 
 ## 三句话先记住
 
