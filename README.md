@@ -192,6 +192,7 @@ USDT 付款最常见的事故不是被骗，而是**选错网络**和**少付手
 - [公网 IP 和弹性公网 IP 怎么选](docs/cloud-public-ip-eip-bandwidth-guide.md)：普通公网 IP 与 EIP 的生命周期、按流量和按带宽的 5 Mbps 阶梯，以及未绑定 EIP 的地址占用费
 - [重装系统会清掉什么](docs/cloud-reinstall-os-guide.md)：更换系统盘和操作系统迁移的差别，系统盘清空后快照不能回滚到新盘，香港及海外地域不能在 Linux 和 Windows 之间互换
 - [升降配会停机吗](docs/cloud-instance-type-change-guide.md)：同可用区变更实例规格要重启，系统和云盘数据留下；阿里云跨可用区会更换私网 IP，固定公网 IP 只是尽量保留，降配退款以订单页为准
+- [私钥丢了还能登录吗](docs/cloud-ssh-keypair-password-vnc-guide.md)：ECS/CVM 的私钥只在创建时给出，绑定密钥对后 SSH 密码登录会关掉；忘了密码要在控制台重置，VNC 用系统密码，不看私钥，也不走安全组
 
 云大仙相关页面：
 
